@@ -1,6 +1,6 @@
 public class quiz_1 {
     public static void main(String[] args) {
-        student S1 = new student(65025839, "Omen Diff", 2000, 3.00);
+        student S1 = new student(65025839 , "Omen Diff", 2000, 3.00);
         S1.showDetails();
     }
 }
